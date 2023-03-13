@@ -1,0 +1,84 @@
+{
+  "name": "AHI_Library",
+  "description": "Blank Library",
+  "main": "NewActivity.xaml",
+  "dependencies": {
+    "ReporterForUiPath.Activities": "2.0.0",
+    "UiPath.Excel.Activities": "2.12.3",
+    "UiPath.Mail.Activities": "1.15.2",
+    "UiPath.MobileAutomation.Activities": "22.4.4",
+    "UiPath.System.Activities": "22.4.1",
+    "UiPath.UIAutomation.Activities": "22.4.5"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.3.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Library",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "44eada49-4f63-47f4-a299-a8e5ffff80d6",
+        "testCaseType": "TestCase",
+        "fileName": "Loginpage.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a9e9b5f2-e9a9-41ba-b547-15a45a05f16d",
+        "testCaseType": "TestCase",
+        "fileName": "Logout.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "713966d2-f6d3-4357-a446-08f94c14dc7c",
+        "testCaseType": "TestCase",
+        "fileName": "Selectpen.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fbaaf262-ff50-40b7-883f-ce3eb9df5e4f",
+        "testCaseType": "TestCase",
+        "fileName": "Lot.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "99332cb0-c23b-4390-92e5-58240e0d7ef8",
+        "testCaseType": "TestCase",
+        "fileName": "Pen.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

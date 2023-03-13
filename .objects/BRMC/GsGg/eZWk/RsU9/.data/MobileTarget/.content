@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="R2-68MdYs0OVk5I8jp8SMA" DesignTimeRectangle="24, 360, 200, 40" FriendlyName="Set Text" FullSelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_code' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_code' accessibilityId='' text='Code' /&gt;" Occurence="0" Reference="cX0JOo5lxkCAS0ESV57DiA/RsU9FsC1D0KRaVhUU7ss5g" SearchSteps="Selector, FuzzySelector, Image" Text="Code" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0Rku4rtYPkEODb9QdrJ78Hg</imageRef>
+</Target>

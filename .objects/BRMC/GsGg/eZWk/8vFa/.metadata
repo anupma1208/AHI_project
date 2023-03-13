@@ -1,0 +1,17 @@
+﻿{
+  "Id": "8vFaV7iJJ0KUR5ZGgSfrfQ",
+  "Reference": "cX0JOo5lxkCAS0ESV57DiA/8vFaV7iJJ0KUR5ZGgSfrfQ",
+  "ParentRef": "cX0JOo5lxkCAS0ESV57DiA/eZWkTLukukefSLHZo5Y6PA",
+  "Name": "Phone_No",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-27T07:27:17.3050675Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T07:32:05.5650964Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

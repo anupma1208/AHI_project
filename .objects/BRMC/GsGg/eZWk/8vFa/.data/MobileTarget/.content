@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="0Y4dxy3MJUmkgSjiav1d9Q" DesignTimeRectangle="24, 285, 320, 40" FriendlyName="Set Text" FullSelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_phone' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_phone' accessibilityId='' text='Phone Number' /&gt;" Occurence="0" Reference="cX0JOo5lxkCAS0ESV57DiA/8vFaV7iJJ0KUR5ZGgSfrfQ" SearchSteps="Selector, FuzzySelector, Image" Text="Phone Number" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0uNItuCt3BUOkKcZW6swK3w</imageRef>
+</Target>

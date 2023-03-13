@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="UutaiOBwe0q__fovzwBd2Q" DesignTimeRectangle="240, 349, 88, 49" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.Button' id='com.ahi.penrider.internal:id/btn_send' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.Button' id='com.ahi.penrider.internal:id/btn_send' accessibilityId='' text='SUBMIT' check:text='SUBMIT' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="SUBMIT" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0ToxBR-3wS0O-MZKQBlt4uA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b4029d53b33d5a7240bc14efcd28c9f8.png" xmlns="">040Nx5SlEbkqdjnmLiyaj-w</imageRef>
+</Target>

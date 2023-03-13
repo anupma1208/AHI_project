@@ -1,0 +1,14 @@
+﻿{
+  "Id": "xZxoJiY_4k6aW3d3Zq8mTA",
+  "Reference": "cX0JOo5lxkCAS0ESV57DiA/xZxoJiY_4k6aW3d3Zq8mTA",
+  "ParentRef": "cX0JOo5lxkCAS0ESV57DiA/eZWkTLukukefSLHZo5Y6PA",
+  "Name": "Jwallace",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-27T07:29:24.2190875Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T07:29:24.2190875Z"
+}

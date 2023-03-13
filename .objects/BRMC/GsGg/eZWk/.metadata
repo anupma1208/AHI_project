@@ -1,0 +1,12 @@
+﻿{
+  "Id": "eZWkTLukukefSLHZo5Y6PA",
+  "Reference": "cX0JOo5lxkCAS0ESV57DiA/eZWkTLukukefSLHZo5Y6PA",
+  "ParentRef": "cX0JOo5lxkCAS0ESV57DiA/GsGg_bD380m6ITWcg1mQEQ",
+  "Name": "Add_New_Treatment",
+  "Type": "Screen",
+  "Created": "2022-07-27T07:26:25.4624415Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T07:26:25.4624415Z"
+}

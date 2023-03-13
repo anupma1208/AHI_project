@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="It9Gp0jHL0qjxphxxEilTA" DesignTimeRectangle="24, 172, 312, 42" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_pen' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_pen' accessibilityId='' text='Pen' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Pen" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="4">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="312, 110, 24, 24" FullSelector="&lt;mbl android:className='android.widget.RelativeLayout' /&gt;&#xD;&#xA;&lt;mbl android:className='android.widget.ImageView' /&gt;&#xD;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.RelativeLayout' id='' accessibilityId='' text='' /&gt;&#xD;&#xA;&lt;mbl android:className='android.widget.ImageView' id='com.ahi.penrider.internal:id/iv_generate_tag' accessibilityId='' text='' check:text='' /&gt;&#xD;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">1jJTgFJKBFEyMV8F8fswk8A</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <Target.TapOffset>
+    <TapOffset OffsetX="9" OffsetY="-15" Position="BottomLeft" />
+  </Target.TapOffset>
+  <imageRef attrName="ImageBase64" xmlns="">0BMXvIM12UU2Y03Wjn16FfA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0d49010ab9be78ccd3a0de75e4a19b33.png" xmlns="">0-VlkaoBSs0youDTc__SxWg</imageRef>
+</Target>

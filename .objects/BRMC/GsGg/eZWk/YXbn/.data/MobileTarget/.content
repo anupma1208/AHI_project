@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="cOyEvhm67kqzmmxlwOm_rw" DesignTimeRectangle="24, 98, 280, 42" FriendlyName="Set Text" FullSelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_tag' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_tag' accessibilityId='' text='Tag ID' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Tag ID" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="4">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="312, 110, 24, 24" FullSelector="&lt;mbl android:className='android.widget.RelativeLayout' /&gt;&#xD;&#xA;&lt;mbl android:className='android.widget.ImageView' /&gt;&#xD;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.RelativeLayout' id='' accessibilityId='' text='' /&gt;&#xD;&#xA;&lt;mbl android:className='android.widget.ImageView' id='com.ahi.penrider.internal:id/iv_generate_tag' accessibilityId='' text='' check:text='' /&gt;&#xD;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">1BHuPsw9vLkKxxQbF8jC6RQ</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Wp61IH1MlkaI50NSNqS6fg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9d2771a152943b060b0dd119056a3529.png" xmlns="">0yb_6RnKX-0S6Cv_JpB4JDg</imageRef>
+</Target>

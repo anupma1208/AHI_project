@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="ez8vSiJRk0eTdCPOCr_kcQ" DesignTimeRectangle="30, 175, 168, 21" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.TextView' text='ADD NEW TREATMENT' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='ADD NEW TREATMENT' id='com.ahi.penrider.internal:id/tv_add_treatment_title' accessibilityId='' check:text='ADD NEW TREATMENT' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="ADD NEW TREATMENT" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="4">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="30, 205, 135, 19" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Add a New Treatment' /&gt;&#xD;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='Add a New Treatment' id='com.ahi.penrider.internal:id/tv_add_treatment_body' accessibilityId='' check:text='Add a New Treatment' /&gt;&#xD;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Add a New Treatment">
+        <imageRef attrName="ImageBase64" xmlns="">1SSFJ-vD4rky1hwtRqA95Ag</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0LQ9HhRw3Qk2DUm8gPU_bGg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="16fd8e795aa8a49c8bec2fc693b1cc52.png" xmlns="">0e5DlhVG_Q0iEAfsdJ03Wkg</imageRef>
+</Target>

@@ -1,0 +1,11 @@
+﻿{
+  "Id": "BRMCgijoZk2l7flHqHD-mw",
+  "Reference": "cX0JOo5lxkCAS0ESV57DiA/BRMCgijoZk2l7flHqHD-mw",
+  "Name": "Login",
+  "Type": "App",
+  "Created": "2022-07-27T07:24:22.5420772Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-27T07:24:22.5420772Z"
+}

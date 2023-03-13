@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="FgGd07lioU2SnFrLdEgJtQ" DesignTimeRectangle="24, 256, 72, 21" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Jwallace2' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='Jwallace2' id='com.ahi.penrider.internal:id/tv_site_name' accessibilityId='' check:text='Jwallace2' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Jwallace2" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0c8nvhk9xqkaE4ED1JHiwBg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="74d9bc24fb52d099d00b7f5ac33eb672.png" xmlns="">06aZc536XvEeCTQxUA9s2tQ</imageRef>
+</Target>
